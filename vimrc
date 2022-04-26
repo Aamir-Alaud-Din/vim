@@ -18,6 +18,8 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'sickill/vim-monokai'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'honza/vim-snippets'
+Plugin 'SirVer/ultisnips'
 
 
 " add all your plugins here (note older versions of Vundle
